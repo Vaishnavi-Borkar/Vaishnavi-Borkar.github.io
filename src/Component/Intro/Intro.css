@@ -1,0 +1,45 @@
+.intro {
+    display: flex;
+    height: 500px;
+    margin-Top: 6rem;
+}
+
+.intro-left {
+    display: flex;
+    flex: 1;
+    position: relative;
+    flex-direction: column;
+}
+
+.profile-img {
+    flex: 1;
+
+
+}
+
+.name {
+    display: flex;
+    flex-direction: column;
+}
+
+.name>:nth-child(1) {
+    color: rgb(184, 177, 177);
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+.name>:nth-child(2) {
+    color: rgb(240, 158, 6);
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+.name>:nth-child(3) {
+    color: gray;
+    font-size: 1rem;
+}
+
+.my-img {
+    height: 250px;
+    border-radius: 50%;
+}

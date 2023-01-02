@@ -1,0 +1,93 @@
+.wrapper {
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo-side {
+    flex: 1;
+    align-items: center;
+    display: flex;
+    gap: 2rem;
+}
+
+.name {
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+.menu-side {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    font-weight: 400;
+}
+
+.list {
+
+    flex: 10;
+
+}
+
+.list>ul {
+    list-style-type: none;
+    display: flex;
+    gap: 2rem;
+    margin-right: 4rem;
+}
+
+.list>ul>li:hover {
+    cursor: pointer;
+    color: rgb(240, 158, 6)
+}
+
+.Down-button {
+    border-radius: 34px;
+    border: none;
+    color: white;
+    background-color: rgb(240, 158, 6);
+    font-size: 16px;
+    padding: 11px 26px;
+
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    font-family: "OpenSans";
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+    /* margin: auto; */
+}
+
+
+
+.Download {
+    color: white;
+    /* background-color: rgb(240, 158, 6); */
+}
+
+.Download:hover {
+    background-color: white;
+    color: rgb(240, 158, 6);
+
+
+}
+
+.Down-button:hover {
+    background-color: white;
+    color: rgb(240, 158, 6);
+    cursor: pointer;
+    border: 1px solid rgb(240, 158, 6);
+}
+
+.logo {
+    width: 200px;
+    height: 100px;
+    /* border-radius: 50%; */
+}
+
+.logo-icon {
+    /* color: white; */
+    width: 20px;
+    height: 20px;
+
+}
