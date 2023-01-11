@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.4bab3a7c.css",
-    "main.js": "/static/js/main.42758ede.js",
+    "main.js": "/static/js/main.07b244f9.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/VaishnaviResume.pdf": "/static/media/VaishnaviResume.04ac195196e64e305d8d.pdf",
     "static/media/resume.png": "/static/media/resume.0c706fd01fa43b51b0c7.png",
     "static/media/Logo.png": "/static/media/Logo.f65578ef2508de41d4a5.png",
     "index.html": "/index.html",
     "main.4bab3a7c.css.map": "/static/css/main.4bab3a7c.css.map",
-    "main.42758ede.js.map": "/static/js/main.42758ede.js.map",
+    "main.07b244f9.js.map": "/static/js/main.07b244f9.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4bab3a7c.css",
-    "static/js/main.42758ede.js"
+    "static/js/main.07b244f9.js"
   ]
 }
