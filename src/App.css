@@ -38,8 +38,15 @@
   }
 }
 
-.App {
+/* .App {
   padding: 0.5rem 3.5rem;
   overflow: hidden;
 
+} */
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "OpenSans";
 }

@@ -1,7 +1,14 @@
 .wrapper {
     height: 10vh;
     display: flex;
+    width: 100%;
     justify-content: space-between;
+    position: fixed;
+    background-color: white;
+    z-index: 2;
+    top: 0;
+    padding: 0.5rem 3.5rem
+        /* top: 10px; */
 }
 
 .logo-side {
@@ -35,11 +42,19 @@
     display: flex;
     gap: 2rem;
     margin-right: 4rem;
+
 }
 
-.list>ul>li:hover {
+.list>ul>li>a:hover {
     cursor: pointer;
     color: rgb(240, 158, 6)
+}
+
+.list>ul>li>a {
+    font-size: 16px;
+    font-weight: bold;
+    color: gray;
+    text-decoration: none;
 }
 
 .Down-button {
@@ -63,21 +78,22 @@
 .Download {
     color: white;
     /* background-color: rgb(240, 158, 6); */
+    text-decoration: none;
 }
 
 .Download:hover {
-    background-color: white;
-    color: rgb(240, 158, 6);
-
+    /* background-color: white;
+    color: rgb(240, 158, 6); */
+    font-size: 20px;
 
 }
 
-.Down-button:hover {
+/* .Down-button:hover {
     background-color: white;
     color: rgb(240, 158, 6);
     cursor: pointer;
     border: 1px solid rgb(240, 158, 6);
-}
+} */
 
 .logo {
     width: 200px;
@@ -85,9 +101,9 @@
     /* border-radius: 50%; */
 }
 
-.logo-icon {
-    /* color: white; */
+/* .logo-icon {
+    color: white;
     width: 20px;
     height: 20px;
 
-}
+} */

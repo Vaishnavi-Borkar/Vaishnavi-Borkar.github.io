@@ -12,7 +12,15 @@ code {
     monospace;
 } */
 
-body {
+/* body {
   background-color: black;
   color: white;
+} */
+
+body {
+  /* font-family: 'Poppins', sans-serif;
+   */
+  /* font-family: 'Helvetica Neue'; */
+  font-family: "OpenSans";
+
 }
