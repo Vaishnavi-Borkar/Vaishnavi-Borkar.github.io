@@ -25,7 +25,7 @@ const Github = () => {
     <section id="github">
       <h2 className="git-title">GitHub</h2>
       <div className="container container_github">
-        <div className="calendar">
+        {/* <div className="calendar">
           <GitHubCalendar
             username="Vaishnavi-Borkar"
             transformData={selectLastHalfYear}
@@ -33,22 +33,26 @@ const Github = () => {
             color="rgb(240, 158, 6)"
             width="100vw"
           />
-        </div>
+        </div> */}
         <div className="contribution">
           <img
-            src="https://streak-stats.demolab.com/?user=Vaishnavi-Borkar&theme=lightbox&date_format=M%20j%5B%2C%20Y%5D&color=rgb(240, 158, 6)"
+            src="https://github-readme-activity-graph.cyclic.app/graph?username=Vaishnavi-Borkar&color=f09e06&theme=react-dark&custom_title=Vaishnavi-Borkar%20's%20contribution%20Graph&hide_border=true"
             alt="contribution"
           />
         </div>
         <div className="language">
           <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Borkar&layout=compact&theme=lightbox&color=rgb(240, 158, 6)"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Borkar&layout=compact&theme=react-dark&color=rgb(240, 158, 6)"
             alt="language"
           />
         </div>
         <div className="stats">
           <img
-            src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-Borkar&count_private=true&theme=lightbox&color=rgb(240, 158, 6)"
+            src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi-Borkar&show_icons=true&locale=en&theme=gruvbox&count_private=true"
+            alt="starts"
+          />
+          <img
+            src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-Borkar&theme=algolia&hide_border=false&include_all_commits=true&count_private=true"
             alt="stats"
           />
         </div>
@@ -58,3 +62,8 @@ const Github = () => {
 };
 
 export default Github;
+
+{
+  /* <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohit-Raj-Singh&theme=2077" width="100%" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mohit-Raj-Singh&theme=react-dark&custom_title=Mohit-Raj-Singh%20's%20contribution%20Graph&hide_border=true" /> */
+}

@@ -12,6 +12,11 @@
 .about-me {
     padding: 0.5rem 3.5rem;
    
+    width: 85%;
+   box-shadow: rgba(253, 251, 251, 0.24) 0px 3px 8px;
+   border-radius: 25px;
+   height: 500px;
+   margin: auto;
     /* box-shadow:  #f9f1ac 0px 30px 60px -12px inset,  #f9f1ac 0px 18px 36px -18px inset; */
 
 }

@@ -4,7 +4,7 @@
     width: 100%;
     justify-content: space-between;
     position: fixed;
-    background-color: white;
+    background-color: #f9f1ac;
     z-index: 2;
     top: 0;
     padding: 0.5rem 3.5rem
@@ -53,14 +53,14 @@
 .list>ul>li>a {
     font-size: 16px;
     font-weight: bold;
-    color: gray;
+    color: black;
     text-decoration: none;
 }
 
 .Down-button {
     border-radius: 34px;
     border: none;
-    color: white;
+    color: black;
     background-color: rgb(240, 158, 6);
     font-size: 16px;
     padding: 11px 26px;
@@ -76,7 +76,7 @@
 
 
 .Download {
-    color: white;
+    color: black;
     /* background-color: rgb(240, 158, 6); */
     text-decoration: none;
 }
@@ -96,8 +96,9 @@
 } */
 
 .logo {
-    width: 200px;
-    height: 100px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
     /* border-radius: 50%; */
 }
 

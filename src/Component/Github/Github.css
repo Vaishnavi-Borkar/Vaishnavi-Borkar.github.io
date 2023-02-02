@@ -45,12 +45,16 @@
 
 .stats {
   
-    width: 45%;
+    width: 70%;
     height: auto;
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap:25px;
+    /* margin-right: 30px; */
     align-items: center;
     justify-content: center;
     margin: auto;
+    
     border-radius: 20px;
     margin-bottom: 30px;
 }
