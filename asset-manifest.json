@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.876e1f01.css",
-    "main.js": "/static/js/main.ace08b7b.js",
+    "main.css": "/static/css/main.63c15a3b.css",
+    "main.js": "/static/js/main.b0ca3cf1.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/outlook.png": "/static/media/outlook.04d009729324b0836109.png",
     "static/media/urban.png": "/static/media/urban.c9174f7906e8ba9d136d.png",
@@ -10,12 +10,12 @@
     "static/media/VaishnaviResume.pdf": "/static/media/VaishnaviResume.3f4ea984aadc8b4fa470.pdf",
     "static/media/resume.png": "/static/media/resume.0c706fd01fa43b51b0c7.png",
     "index.html": "/index.html",
-    "main.876e1f01.css.map": "/static/css/main.876e1f01.css.map",
-    "main.ace08b7b.js.map": "/static/js/main.ace08b7b.js.map",
+    "main.63c15a3b.css.map": "/static/css/main.63c15a3b.css.map",
+    "main.b0ca3cf1.js.map": "/static/js/main.b0ca3cf1.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.876e1f01.css",
-    "static/js/main.ace08b7b.js"
+    "static/css/main.63c15a3b.css",
+    "static/js/main.b0ca3cf1.js"
   ]
 }
