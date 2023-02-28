@@ -12,15 +12,57 @@ code {
     monospace;
 } */
 
-body {
+/* body {
   background-color: black;
   color: white;
-}
+} */
 
 body {
   /* font-family: 'Poppins', sans-serif;
    */
   /* font-family: 'Helvetica Neue'; */
   font-family: "OpenSans";
+  background-color: black;
+  color: white;
 
+}
+
+
+:root {
+  --container-width-lg: 75%;
+    --container-width-md: 100%;
+    --container-width-sm: 90%;
+
+}
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  box-sizing: border-box;
+  outline: none;
+  text-decoration: none;
+  list-style: none;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+@media screen and (max-width:1024px) {
+  .container {
+      width: var(--container-width-md);
+  }
+
+  
+}
+
+/*Small devices */
+
+
+@media screen and (max-width:600px) {
+  .container {
+      width: var(--container-width-sm);
+  }
+
+  
 }
