@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.63c15a3b.css",
-    "main.js": "/static/js/main.fa27f0b4.js",
+    "main.js": "/static/js/main.5a8659de.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/urban.png": "/static/media/urban.c9174f7906e8ba9d136d.png",
     "static/media/bewakoof.png": "/static/media/bewakoof.6c2c415a683c4f4985c0.png",
     "static/media/sastadeal.png": "/static/media/sastadeal.93aafa4a84fcf065f2a0.png",
     "static/media/beauty-bebo.png": "/static/media/beauty-bebo.c75c6a07e6837e6a8845.png",
     "static/media/resume.png": "/static/media/resume.923573c9c56ac0687297.png",
-    "static/media/Vaishnavi_Borkar_Resume.pdf": "/static/media/Vaishnavi_Borkar_Resume.3f4ea984aadc8b4fa470.pdf",
+    "static/media/Vaishnavi_Borkar_Resume.pdf": "/static/media/Vaishnavi_Borkar_Resume.90fccb97f47e87d85193.pdf",
     "index.html": "/index.html",
     "main.63c15a3b.css.map": "/static/css/main.63c15a3b.css.map",
-    "main.fa27f0b4.js.map": "/static/js/main.fa27f0b4.js.map",
+    "main.5a8659de.js.map": "/static/js/main.5a8659de.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.63c15a3b.css",
-    "static/js/main.fa27f0b4.js"
+    "static/js/main.5a8659de.js"
   ]
 }
