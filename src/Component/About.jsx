@@ -134,13 +134,15 @@ function About() {
         >
           <Box
             // position={"relative"}
+            borderRadius={"10px 100px / 120px"}
             height={"300px"}
             rounded={"2xl"}
-            boxShadow={"2xl"}
+            // boxShadow={"2xl"}
             width={"70%"}
             overflow={"hidden"}
           >
             <Image
+              borderRadius={"10px 100px / 120px"}
               alt={"Hero Image"}
               fit={"cover"}
               align={"center"}
